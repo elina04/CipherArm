@@ -1,0 +1,16 @@
+C:\Users\villa\source\repos\CipherArm\CipherArm\bin\Debug\CipherArm.exe.config
+C:\Users\villa\source\repos\CipherArm\CipherArm\bin\Debug\CipherArm.exe
+C:\Users\villa\source\repos\CipherArm\CipherArm\bin\Debug\CipherArm.pdb
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.csproj.AssemblyReference.cache
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\MainWindow.g.cs
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\App.g.cs
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm_MarkupCompile.cache
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm_MarkupCompile.lref
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\MainWindow.baml
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.g.resources
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.Properties.Resources.resources
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.csproj.GenerateResource.cache
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.exe
+C:\Users\villa\source\repos\CipherArm\CipherArm\obj\Debug\CipherArm.pdb
